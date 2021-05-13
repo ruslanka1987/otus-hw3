@@ -1,0 +1,20 @@
+{
+    "name": "ruslan/hw3",
+    "description": "homework #3",
+    "type": "project",
+    "license": "gplv3",
+    "authors": [
+        {
+            "name": "Ruslan",
+            "email": "russel1987@mail.ru"
+        }
+    ],
+    "require": {
+        "php": "^7.4 || ^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Otus\\Homework\\": "src/"
+        }
+    }
+}
