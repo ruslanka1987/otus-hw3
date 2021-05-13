@@ -2,7 +2,7 @@
     "name": "ruslanka1987/hw3",
     "description": "homework #3",
     "type": "project",
-    "license": "gplv3",
+    "license": "GPL-3.0-or-later",
     "authors": [
         {
             "name": "Ruslan",
